@@ -1,1 +1,5 @@
 # ExploratoryDataAnalysis
+
+using:
+* matplotlib
+* seaborn
