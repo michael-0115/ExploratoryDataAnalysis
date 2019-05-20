@@ -5,5 +5,7 @@ Do some exploratory analysis on the health insurance marketplace data.
 * B3. Variation in Costs across States
 * B4. Variation in Costs over Time and with Age
 
+* Note: "InsuranceRates" dataset not yet uploaded. 
+
 ### TaskC
 Do the same exploratory analysis as TaskB on the crime dataset.
